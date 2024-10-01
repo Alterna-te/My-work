@@ -1,2 +1,2 @@
 # My-work
-On tthis repository yo can see my little works on python 
+On this repository yo can see my little works on python 
